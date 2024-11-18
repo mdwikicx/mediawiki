@@ -47,9 +47,9 @@ $wgImportSources = [
     'wikipedia' => ['en']
 ];
 
-$wgShowExceptionDetails = true;
-$wgShowDBErrorBacktrace = true;
-$wgShowSQLErrors = true;
+$wgShowExceptionDetails = false;
+$wgShowDBErrorBacktrace = false;
+$wgShowSQLErrors = false;
 $wgRememberMe = 'always';
 
 $wgAllowCrossOrigin= true;
