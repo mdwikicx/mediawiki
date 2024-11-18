@@ -223,8 +223,8 @@ $wgPluggableAuth_Config['mywikiauth'] = [
     'data' => [
         'type' => 'mediawiki',
         'uri' => 'https://meta.wikimedia.org/w/index.php?title=Special:OAuth',
-        'clientId' => '5628e85d176fe55e4f115b7a028e320d',
-        'clientSecret' => 'e5c85f46b655414b1158127dee05b75312616c3a',
+        'clientId' => '---',
+        'clientSecret' => '---',
         'redirectUri' => 'https://medwiki.toolforge.org/w/index.php?title=Special:PluggableAuthLogin'
     ],
     "buttonLabelMessage" => "SSOButtonLabel"
